@@ -103,7 +103,3 @@ model in `models/best_model.joblib`. Step 4 writes `confusion_matrix.png`,
 ## 🛠️ Tech Stack
 
 Python · scikit-learn · XGBoost · pandas · NumPy · Matplotlib · seaborn
-
-## 📄 License
-
-MIT — feel free to reuse and adapt.
