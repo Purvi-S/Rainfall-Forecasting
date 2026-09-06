@@ -1,0 +1,15 @@
+# data & artifacts (regenerable / large)
+data/*.csv
+models/*.joblib
+reports/*.png
+reports/*.json
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# os
+.DS_Store
